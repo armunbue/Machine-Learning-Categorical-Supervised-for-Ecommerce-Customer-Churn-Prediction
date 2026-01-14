@@ -1468,8 +1468,8 @@ Hasil ini membuka peluang untuk:
 
 | Item                 | Link / Reference                                                                                                                |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Visual Code          | https://drive.google.com/file/d/1djhT5kg2vyGRXK3Uj-rlnuf-PDY0ME4s/view                                                          |
+| Visual Code          | https://drive.google.com/file/d/1djhT5kg2vyGRXK3Uj-rlnuf-PDY0ME4s/view?usp=sharing                                              |
 | Dashboard            | [Looker Studio Ecommerce Churn](https://lookerstudio.google.com/reporting/7b7052ad-08ae-4ee9-9c05-0c6c820e9052/page/TlJ0C/edit) |
-| GitHub Repository    | [CP 3 Machine Learning GitHub](https://github.com/armunbue/Capstone-Project-Module-3-Machine-Learning)                          |
+| GitHub Repository    | [Machine_Learning_Categorical_Supervised_for_Ecommerce_Customer_Churn_Prediction](https://github.com/armunbue/Machine-Learning-Categorical-Supervised-for-Ecommerce-Customer-Churn-Prediction/tree/main)|
 | Presentation (PPT)   | [PPT Ecommerce Churn Prediction](https://drive.google.com/file/d/1DsG2vYvetuPjhb85sz9DIlN28AEyTpFV/view?usp=sharing)            |
-| Google Drive Storage | [Capstone Project 3 Storage](https://drive.google.com/drive/folders/1-UT9YRnpPjpkZWp5AFFpwvkuwsp4VSre)                          |
+| Google Drive Storage | [Capstone Project 3 ML Storage](https://drive.google.com/drive/folders/1-UT9YRnpPjpkZWp5AFFpwvkuwsp4VSre)                       |
