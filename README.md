@@ -1462,3 +1462,14 @@ Hasil ini membuka peluang untuk:
 - Feature importance menunjukkan tenure sebagai faktor paling penting
 - Threshold tuning dapat menyeimbangkan precision dan recall sesuai kebutuhan bisnis
 - Pipeline memastikan konsistensi preprocessing antara training dan inference
+
+
+## *Progress Storaging*
+
+| Item                 | Link / Reference                                                                                                                |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Visual Code          | https://drive.google.com/file/d/1djhT5kg2vyGRXK3Uj-rlnuf-PDY0ME4s/view                                                          |
+| Dashboard            | [Looker Studio Ecommerce Churn](https://lookerstudio.google.com/reporting/7b7052ad-08ae-4ee9-9c05-0c6c820e9052/page/TlJ0C/edit) |
+| GitHub Repository    | [CP 3 Machine Learning GitHub](https://github.com/armunbue/Capstone-Project-Module-3-Machine-Learning)                          |
+| Presentation (PPT)   | [PPT Ecommerce Churn Prediction](https://drive.google.com/file/d/1DsG2vYvetuPjhb85sz9DIlN28AEyTpFV/view?usp=sharing)            |
+| Google Drive Storage | [Capstone Project 3 Storage](https://drive.google.com/drive/folders/1-UT9YRnpPjpkZWp5AFFpwvkuwsp4VSre)                          |
